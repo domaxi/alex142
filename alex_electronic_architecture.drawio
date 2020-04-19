@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-19T13:07:48.977Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.5 Safari/605.1.15" etag="ol4w9qg5b8V81ESB6apO" version="12.9.14" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-19T17:39:51.148Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.5 Safari/605.1.15" etag="32Aj7adZa5rT8IyLIpWP" version="12.9.14" type="github">
   <diagram id="VnCIQRjtmT7jwR76PHyO" name="Page-1">
     <mxGraphModel dx="944" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -20,7 +20,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Kv1DmroWl6HsXUTGS-au-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2CkAWybl6f_ozzkzrOvi-1" target="2CkAWybl6f_ozzkzrOvi-2">
+        <mxCell id="Kv1DmroWl6HsXUTGS-au-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="2CkAWybl6f_ozzkzrOvi-1" target="2CkAWybl6f_ozzkzrOvi-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2CkAWybl6f_ozzkzrOvi-1" value="&lt;br&gt;Raspberry Pi 3B+" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;" parent="1" vertex="1">
@@ -233,7 +233,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="y9Z0lJfgHbXX7u5EFjHM-17" value="&lt;font style=&quot;font-size: 12px&quot;&gt;4 x 1.2 V&lt;br&gt;Lithium &amp;nbsp;Batteries&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="y9Z0lJfgHbXX7u5EFjHM-17" value="&lt;font style=&quot;font-size: 12px&quot;&gt;4 x 1.2 V&lt;br&gt;NiMH &amp;nbsp;Batteries&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="710" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="y9Z0lJfgHbXX7u5EFjHM-20" value="6V" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -330,13 +330,13 @@
         <mxCell id="ok7FpIZAKg8Sn_sipKtc-34" value="USB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=11;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="350" y="532.5" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Kv1DmroWl6HsXUTGS-au-2" value="" style="endArrow=none;html=1;exitX=-0.14;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFFFFF;" edge="1" parent="1">
+        <mxCell id="Kv1DmroWl6HsXUTGS-au-2" value="" style="endArrow=none;html=1;exitX=-0.14;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFFFFF;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="517.2" y="541" as="sourcePoint" />
             <mxPoint x="630" y="541" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Kv1DmroWl6HsXUTGS-au-3" value="&lt;font style=&quot;font-size: 9px&quot;&gt;PWM&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="Kv1DmroWl6HsXUTGS-au-3" value="&lt;font style=&quot;font-size: 9px&quot;&gt;PWM&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="555" y="522" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
